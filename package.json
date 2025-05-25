@@ -1,6 +1,7 @@
 {
   "name": "whatsapp-bot",
   "version": "1.0.0",
+  "type": "module",
   "description": "WhatsApp Cloud API chatbot using Node.js",
   "main": "index.js",
   "scripts": {
